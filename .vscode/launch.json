@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "chrome",
+            "name": "http://Api_de_R",
+            "request": "launch",
+            "url": "http://Api_de_R"
+        }
+    ]
+}
